@@ -19,7 +19,7 @@
     "@babel/preset-react": "^7.8.3",
     "@babel/runtime": "^7.8.7",
     "@babel/runtime-corejs3": "^7.8.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-loader": "^8.0.6",
     "core-js": "^3.6.4",
     "koa-static": "^5.0.0",
